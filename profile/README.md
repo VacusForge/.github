@@ -2,6 +2,8 @@
 
 **From ideas to worlds.**
 
+🇬🇧 English | 🇫🇷 [Français](#-français)
+
 Vacus Forge is an independent French digital studio. We design and develop our own digital products while helping businesses and individuals bring their ideas to life.
 
 ### What we do
@@ -26,10 +28,28 @@ Have a project in mind? We'd love to hear about it.
 
 ---
 
-### 🇫🇷 En français
+## 🇫🇷 Français
 
 **Des idées aux univers.**
 
-Vacus Forge est un studio français de création numérique. Nous imaginons et développons nos propres produits, et accompagnons nos clients dans leurs projets, du site web à l'application sur mesure.
+Vacus Forge est un studio français indépendant de création numérique. Nous imaginons et développons nos propres produits, tout en accompagnant les entreprises et les particuliers dans la réalisation de leurs projets.
 
-[Découvrir notre studio](https://vacusforge.com)
+### Nos activités
+
+- **Produits numériques** — Création de plateformes, d'applications et d'expériences interactives originales.
+- **Développement web** — Conception et réalisation de sites internet et d'applications web sur mesure.
+- **Solutions personnalisées** — Développement d'expériences numériques adaptées aux besoins spécifiques de chaque projet.
+- **Maintenance et accompagnement** — Suivi technique et maintien du bon fonctionnement des projets dans la durée.
+
+### Nos projets
+
+**Famovey** — Un univers familial ludique et interactif où se retrouvent les proches, les souvenirs et les liens qui nous unissent.
+
+[Découvrir Famovey](https://famovey.com)
+
+### Donnons vie à vos idées
+
+Vous avez un projet en tête ? Parlons-en !
+
+**Site web :** [vacusforge.com](https://vacusforge.com)  
+**Contact :** contact@vacusforge.com
